@@ -2,6 +2,9 @@
 
 A web-based, drag-and-drop inventory tracker for managing frozen cell vials in -80°C freezers. Designed for ease-of-use in lab environments, this tool supports live editing, color-coded projects, label printing, and exportable logs — all within a sleek single-page interface.
 
+![Laboratory](https://img.shields.io/badge/domain-laboratory-blue.svg)
+![Research](https://img.shields.io/badge/application-research-green.svg)
+![Sample Management](https://img.shields.io/badge/tracking-samples-orange.svg)
 ---
 
 ## Project Overview
